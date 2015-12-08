@@ -1,6 +1,6 @@
 package trab;
 
-public class Aresta {
+public class Aresta { // classe Aresta - apenas um comentario de teste
 
     private String idAresta;
     private Vertice origem;
